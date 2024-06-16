@@ -41,12 +41,3 @@ This project aims to build a predictive model to determine the likelihood of ind
 ## Contributors
 - [Shadab Jamadar](https://github.com/UnbeatableBann)
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-- Acknowledge any individuals, organizations, or resources that helped in your project.
-
----
-
-You can personalize this README template by filling in the placeholders with specific details about your project, such as dataset sources, preprocessing methods, model specifics, and contributors. Make sure to include relevant links, references, and any necessary installation or usage instructions to help users understand and utilize your project effectively.
